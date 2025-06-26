@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saif Husain</h1>
-<h3 align="center">A Frontend & MERN Stack Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A Frontend & MERN Stack Developer|| Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saif-husain&label=Profile%20views&color=0e75b6&style=flat" alt="saif-husain" />
@@ -63,10 +63,10 @@
 
 ## 📫 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://facebook.com](https://www.facebook.com/share/1BVrZQHtMF/)/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/)
-📧 Email: your-email@example.com
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/saimum_husain_saif?igsh=Z2wyODA2NGdsczFn)/)
+📧 Email: saimumsaif62@gmail.com
 
 ---
 
