@@ -1,6 +1,10 @@
 # 💫 About Me:
 🎓 I'm currently studying at Northern University Bangladesh<br>💻 Passionate about building creative, scalable web solutions<br>🌱 Currently exploring Node.js and Nest.<br>⚡ Love working with React, MongoDB, and modern CSS frameworks like Tailwind CSS<br><br>🌱 Currently Learning:<br>-Docker<br>-Supabase<br>-AWS<br>-Three.js<br><br>💬 Ask Me About:<br>-React.js<br>-Next.js<br>-TypeScript<br>-JavaScript<br>-Tailwind CSS<br>-Blockchain with Web3.js & Hardhat<br>-Three.js (expertise level)<br>-Redux, Tanstack, Zustand, WebSockets<br>-GraphQL, Parcel, Apollo Client
 
+#Problem Solving Profile:
+Beecrowed:https://judge.beecrowd.com/en/profile/813647
+Hacker-Rank:https://www.hackerrank.com/profile/mdsakibbd68
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BVrZQHtMF/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saimum_husain_saif?igsh=Z2wyODA2NGdsczFn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saif-husain-84b305287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/md-shakib-the-scripter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saimumsaif62@gmail.com) 
